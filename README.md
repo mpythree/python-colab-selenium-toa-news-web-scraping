@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project is an automated web scraper designed to extract news dan date data \[mention the data type, e.g., product names, prices, ratings, and technical specifications] from [TOA Indonesia](https://toa.co.id/news) Website. The collected data is intended for practicing gathering data from an active website using Selenium with Python.
+This project is an automated web scraper designed to extract news dan date data from [TOA Indonesia](https://toa.co.id/news) Website. The collected data is intended for practicing gathering data from an active website using Selenium with Python.
 
 ### Key Features
 
