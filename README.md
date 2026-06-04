@@ -1,4 +1,4 @@
-# 🕵️‍♂️ \[TOA Indonesia News Web Scraper]
+# 🕵️‍♂️ \[Active Website News Web Scraper using Python Selenium]
 
 [<Python 3.12.13>](https://python.org)
 [<Selenium 4.44.0>](https://selenium.dev)
